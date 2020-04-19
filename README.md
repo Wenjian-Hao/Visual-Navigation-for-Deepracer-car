@@ -1,6 +1,6 @@
 # Visual-Navigation-for-Deepracer-car
 
-This project is finished in 02/2019, Author: Wenjian Hao, Mechanical Engineering, Clemson University.\\
+**This project is finished in 02/2019, Author: Wenjian Hao, Mechanical Engineering, Clemson University** <br />
 The basical target of this project is to make path following more effectiveby by using cnn model to get angle and velocity for the rc car in real-time.
 
 Data collecting is completed by adopting rosbag recording: Controlling the rc car manually, recording the rostopic: image, angle, velocity, which is the model training input->images, output->angle, velocity.\\
