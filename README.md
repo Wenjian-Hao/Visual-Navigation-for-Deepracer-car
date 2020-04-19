@@ -3,7 +3,7 @@
 **This project is finished in 02/2019, Author: Wenjian Hao, Mechanical Engineering, Clemson University** <br />
 
 __Why we did this project?__ <br />
-*The basical target of this project is to make path following more effectiveby by using cnn model to get angle and velocity for the rc car directly in real-time.
+*The basical target of this project is to make path following more effectiveby by using cnn model to get angle and velocity for the rc car directly in real-time.*
 
 __How to deal with raw rosbag to get training data?__<br />
 *Data collecting is completed by adopting rosbag recording: Controlling the rc car manually, recording the rostopic: image, angle, velocity, which is the model training input->images, output->angle, velocity.<br />
