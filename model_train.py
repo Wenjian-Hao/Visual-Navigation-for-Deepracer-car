@@ -1,5 +1,5 @@
 '''
-10/2019 Clemson University, Mechanical Engineering
+02/2019 Clemson University, Mechanical Engineering
 
     About the codes
     1. Goal: Building a cnn model to drive AWS car autonomously in a building
