@@ -1,4 +1,4 @@
-# Visual-Navigation-for-Deepracer-car
+# Visual-Navigation-for-RC-car
 
 **This project is finished in 02/2019, Author: Wenjian Hao, Mechanical Engineering, Clemson University** <br />
 
