@@ -3,15 +3,15 @@
 
     About the codes
     1. Goal: Building a cnn model to drive AWS car autonomously in a building
-    2. Use 'nvidia-end to end' CNN structure
-    3. Recording training data using rosbag inside and outside around flour daniel, clemson university
-    4. one input: image and two labels: steering angles and throttle
-    5. this codes offer two train method: pytorch and keras, which are set in the same initial parameters
+    2. CNN structure: 'nvidia - end to end' 
+    3. Data Environment: Recording training data using rosbag inside and outside around flour daniel, clemson university
+    4. One input: image; Two labels: steering angles and throttle
+    5. This codes offers two train methods: pytorch and keras, which are trained with the same training data
 
     Training method
-        use rosbag to record the steering angles and throttle corresponding to images
-        preprocessing the collecting data: match images to angles, throttle according to rostime stamp
-        then train a cnn network
+    1. Use rosbag to record the steering angles and throttle topics corresponding to images rostopic
+    2. Preprocessing the collecting data: Matching images with 'angles and throttle from the manual command' according to rostime stamp
+    3. Start training the CNN network
     
 '''
 
